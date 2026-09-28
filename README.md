@@ -1,4 +1,5 @@
-<p align="left"># Hi, I'm Osama 👋
+<p align="left">
+# Hi, I'm Osama 👋
 
 ### Electronics & Communication Engineer | Frontend Developer
 
