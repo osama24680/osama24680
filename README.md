@@ -1,4 +1,9 @@
-<p align="left">Hi, it's Osama.<br>A front-end developer</p>
+<p align="left"># Hi, I'm Osama 👋
+
+### Electronics & Communication Engineer | Frontend Developer
+
+Electronics & Communication Engineer with a passion for software engineering,
+frontend development, and building practical technology solutions.</p>
 
 ###
 
