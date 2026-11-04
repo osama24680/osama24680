@@ -30,7 +30,7 @@ I'm an Electronics & Communications Engineer (AAST) who moved into front-end dev
     </td>
   </tr>
   <tr>
-    <td width="320"><a href="https://to-do-full-app.vercel.app"><img src="assets/projects/taskflow.jpg" width="300" alt="Taskflow login page" /></a></td>
+    <td width="320"><a href="https://to-do-full-app.vercel.app"><img src="assets/projects/taskflow.jpg" width="300" alt="Taskflow todos page" /></a></td>
     <td>
       <strong>Taskflow</strong><br />
       Full-stack task manager with JWT auth and server-side pagination.<br /><br />
