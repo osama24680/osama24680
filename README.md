@@ -39,7 +39,7 @@ I'm an Electronics & Communications Engineer (AAST) who moved into front-end dev
     </td>
   </tr>
   <tr>
-    <td width="320"><a href="https://cinaflix.pages.dev"><img src="assets/projects/cinaflix.jpg" width="300" alt="CinaFlix trending titles" /></a></td>
+    <td width="320"><a href="https://cinaflix.pages.dev"><img src="assets/projects/cinaflix-trending.jpg" width="300" alt="CinaFlix trending titles" /></a></td>
     <td>
       <strong>CinaFlix</strong><br />
       Movie and TV discovery app using 12 TMDB endpoints.<br /><br />
