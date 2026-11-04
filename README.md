@@ -1,69 +1,36 @@
-<p align="left">
-# Hi, I'm Osama 👋
+# Osama Megahed
 
-### Electronics & Communication Engineer | Frontend Developer
+**Front-End Developer** building with React, Next.js and TypeScript. Alexandria, Egypt.
 
-Electronics & Communication Engineer with a passion for software engineering,
-frontend development, and building practical technology solutions.</p>
+I'm an Electronics & Communications Engineer (AAST) who moved into front-end development, and I took a smart-shoe startup from idea to funding along the way. I care about products that work end to end, from the circuit board to the browser.
 
-###
+**Open to** front-end internships and junior roles.
 
-<br clear="both">
+[Portfolio](https://portfolio-nine-phi-nw8cnmt42u.vercel.app) · [LinkedIn](https://www.linkedin.com/in/osama-megahed-887b76201/) · [Email](mailto:osamamegahed2468@gmail.com)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="80" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="80" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="80" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="80" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="80" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" width="80" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="80" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="80" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" width="80" alt="materialui logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="80" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="80" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="80" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="80" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" width="80" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="80" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="80" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" width="80" alt="photoshop logo"  />
-</div>
+## Featured projects
 
-###
+| Project | What it is | Built with | Links |
+| --- | --- | --- | --- |
+| **FreshCart** | E-commerce storefront, in active development | Next.js 16, React 19, TypeScript, Tailwind CSS 4 | [Live](https://fresh-cart-tau-liard.vercel.app) · [Code](https://github.com/osama24680/FreshCart) |
+| **FoodAway** | Food ordering with online payment and a CMS-driven menu | Next.js, Sanity, Stripe, Zustand | [Live](https://food-away.vercel.app) · [Code](https://github.com/osama24680/Food-Orders) |
+| **Taskflow** | Full-stack task manager with JWT auth and server-side pagination | React, TypeScript, TanStack Query, Strapi 5 | [Live](https://to-do-full-app.vercel.app) · [Code](https://github.com/osama24680/ToDo-Full-App) |
+| **CinaFlix** | Movie and TV discovery app using 10 TMDB endpoints | React, React Router, Axios | [Live](https://cinaflix.pages.dev) · [Code](https://github.com/osama24680/Movie-App) |
 
-<br clear="both">
+## Vectos (formerly ShoesFit)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=osama24680" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&username=osama24680" height="150" alt="languages graph"  />
-</div>
+AI smart shoes that flag health risks early, combining embedded systems, IoT, AI and a web platform. It started as my graduation project.
 
-###
+- $1,000 in funding
+- Top 10 in Plan International's entrepreneurship program
+- 7th place at AAST Rally 2024
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/osama24680/count.svg?"  />
-</div>
+[Web platform code](https://github.com/osama24680/Vectos)
 
-###
+## Tech
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/osama-megahed-887b76201/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="discordapp.com/users/Osama-Megahed#6860" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/osamamegahed123/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100010179812706" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/+201127796848" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+**Daily stack:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
 
-###
-Profile Readme Generator
+**State and data:** TanStack Query, Redux, Zustand, REST APIs, GraphQL
+
+**Tools and platforms:** Git, Figma, Firebase, Sanity, Strapi
