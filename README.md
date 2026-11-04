@@ -10,12 +10,44 @@ I'm an Electronics & Communications Engineer (AAST) who moved into front-end dev
 
 ## Featured projects
 
-| Project | What it is | Built with | Links |
-| --- | --- | --- | --- |
-| **FreshCart** | E-commerce storefront, in active development | Next.js 16, React 19, TypeScript, Tailwind CSS 4 | [Live](https://fresh-cart-tau-liard.vercel.app) · [Code](https://github.com/osama24680/FreshCart) |
-| **FoodAway** | Food ordering with online payment and a CMS-driven menu | Next.js, Sanity, Stripe, Zustand | [Live](https://food-away.vercel.app) · [Code](https://github.com/osama24680/Food-Orders) |
-| **Taskflow** | Full-stack task manager with JWT auth and server-side pagination | React, TypeScript, TanStack Query, Strapi 5 | [Live](https://to-do-full-app.vercel.app) · [Code](https://github.com/osama24680/ToDo-Full-App) |
-| **CinaFlix** | Movie and TV discovery app using 12 TMDB endpoints | React, React Router, Axios | [Live](https://cinaflix.pages.dev) · [Code](https://github.com/osama24680/Movie-App) |
+<table>
+  <tr>
+    <td width="320"><a href="https://fresh-cart-tau-liard.vercel.app"><img src="assets/projects/freshcart.jpg" width="300" alt="FreshCart home page" /></a></td>
+    <td>
+      <strong>FreshCart</strong><br />
+      Grocery e-commerce storefront, in active development.<br /><br />
+      <sub>Next.js 16 · React 19 · TypeScript · Tailwind CSS 4</sub><br /><br />
+      <a href="https://fresh-cart-tau-liard.vercel.app">Live</a> · <a href="https://github.com/osama24680/FreshCart">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="320"><a href="https://food-away.vercel.app"><img src="assets/projects/foodaway.jpg" width="300" alt="FoodAway home page" /></a></td>
+    <td>
+      <strong>FoodAway</strong><br />
+      Food ordering with online payment and a CMS-driven menu.<br /><br />
+      <sub>Next.js · Sanity · Stripe · Zustand</sub><br /><br />
+      <a href="https://food-away.vercel.app">Live</a> · <a href="https://github.com/osama24680/Food-Orders">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="320"><a href="https://to-do-full-app.vercel.app"><img src="assets/projects/taskflow.jpg" width="300" alt="Taskflow login page" /></a></td>
+    <td>
+      <strong>Taskflow</strong><br />
+      Full-stack task manager with JWT auth and server-side pagination.<br /><br />
+      <sub>React · TypeScript · TanStack Query · Strapi 5</sub><br /><br />
+      <a href="https://to-do-full-app.vercel.app">Live</a> · <a href="https://github.com/osama24680/ToDo-Full-App">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="320"><a href="https://cinaflix.pages.dev"><img src="assets/projects/cinaflix.jpg" width="300" alt="CinaFlix login page" /></a></td>
+    <td>
+      <strong>CinaFlix</strong><br />
+      Movie and TV discovery app using 12 TMDB endpoints.<br /><br />
+      <sub>React · React Router · Axios</sub><br /><br />
+      <a href="https://cinaflix.pages.dev">Live</a> · <a href="https://github.com/osama24680/Movie-App">Code</a>
+    </td>
+  </tr>
+</table>
 
 ## Vectos (formerly ShoesFit)
 
@@ -29,8 +61,14 @@ AI smart shoes that flag health risks early, combining embedded systems, IoT, AI
 
 ## Tech
 
-**Daily stack:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+<p>
+  <img src="assets/icons/react.svg" width="40" height="40" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="assets/icons/nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
+  <img src="assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img src="assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="assets/icons/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="assets/icons/redux.svg" width="40" height="40" alt="Redux" title="Redux" />&nbsp;&nbsp;
+  <img src="assets/icons/git.svg" width="40" height="40" alt="Git" title="Git" />
+</p>
 
-**State and data:** TanStack Query, Redux, Zustand, REST APIs, GraphQL
-
-**Tools and platforms:** Git, Figma, Firebase, Sanity, Strapi
+**Also worked with:** TanStack Query, Zustand, REST APIs, GraphQL, Sanity, Strapi, Firebase, Figma
