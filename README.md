@@ -15,7 +15,7 @@ I'm an Electronics & Communications Engineer (AAST) who moved into front-end dev
 | **FreshCart** | E-commerce storefront, in active development | Next.js 16, React 19, TypeScript, Tailwind CSS 4 | [Live](https://fresh-cart-tau-liard.vercel.app) · [Code](https://github.com/osama24680/FreshCart) |
 | **FoodAway** | Food ordering with online payment and a CMS-driven menu | Next.js, Sanity, Stripe, Zustand | [Live](https://food-away.vercel.app) · [Code](https://github.com/osama24680/Food-Orders) |
 | **Taskflow** | Full-stack task manager with JWT auth and server-side pagination | React, TypeScript, TanStack Query, Strapi 5 | [Live](https://to-do-full-app.vercel.app) · [Code](https://github.com/osama24680/ToDo-Full-App) |
-| **CinaFlix** | Movie and TV discovery app using 10 TMDB endpoints | React, React Router, Axios | [Live](https://cinaflix.pages.dev) · [Code](https://github.com/osama24680/Movie-App) |
+| **CinaFlix** | Movie and TV discovery app using 12 TMDB endpoints | React, React Router, Axios | [Live](https://cinaflix.pages.dev) · [Code](https://github.com/osama24680/Movie-App) |
 
 ## Vectos (formerly ShoesFit)
 
